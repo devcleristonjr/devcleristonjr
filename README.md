@@ -1,7 +1,7 @@
 ### Olá eu sou o Cleriston Pereira 👋
 
-### •Developer
-### •Estudante de Análise e Desenvolvimento de Sistemas
+#### •Developer
+#### •Estudante de Análise e Desenvolvimento de Sistemas
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clayydix0n/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleriston-pereira-671970253/)
