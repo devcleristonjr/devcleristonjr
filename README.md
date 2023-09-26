@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="htlm5" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="htlm5" src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-<img align="center" alt="htlm5" src= "[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://icons8.com/icon/MHcMYTljfKOr/flask)https://icons8.com/icon/MHcMYTljfKOr/flask" />
+  <img align="center" alt="htlm5" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
 
 </div>
